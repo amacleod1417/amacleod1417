@@ -2,7 +2,7 @@
 - 🌱 I’m a second-year biomedical engineering student at the University of Waterloo with a love for software development! 
 - 👀 I’m interested in applications of technology in healthcare, machine learning and decentralized finance.
 - 💞️ I'm a huge hackathon enthusiast and love to collaborate with others on cool projects
-- 📫 If you would like to connect with me or work together on a project you can find me on LinkedIn here: https://linkedin.com/in/alexandra-macleod. I'm currently looking for a Winter 2025 internship.
+- 📫 If you would like to connect with me or work together on a project you can find me on LinkedIn here: https://linkedin.com/in/alexandra-macleod. I'm currently looking for a Fall 2025 internship.
 - ⚡ My hobbies and interests beyond programming include playing guitar, wathcing cat videos and backcountry camping!
 - 🛠️ Skills over the years:
   - Languages: C++, JavaScript, Python, Swift, MATLAB, SQL, HTML, TypeScript, Kotlin, Rust, Solidity
